@@ -6,6 +6,11 @@
 * Node Js
 * MongoDb
 
+* Frontend is Deployed On Vercel
+* Backend is Deployed On Render
+
+
+
 ![image](https://user-images.githubusercontent.com/72497717/222382769-a6eb51e2-1828-4696-b966-a956084aa9dc.png)
 
 ![image](https://user-images.githubusercontent.com/72497717/222382496-aa1428d9-0c57-4fba-b87a-9f202b7062ff.png)
