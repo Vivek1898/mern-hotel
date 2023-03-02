@@ -1,7 +1,7 @@
-# Mern-hotel
-
+## Mern-hotel
+<a href="https://assingment-frontend.vercel.app/">Live Url</a>
 ## Tech Stack 
-
+```
 * React Js
 * Node Js
 * MongoDb
@@ -12,6 +12,8 @@
 * Email Api Integrated
 * Frontend is Deployed On Vercel
 * Backend is Deployed On Render
+```
+
 
 
 
