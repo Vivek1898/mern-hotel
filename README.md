@@ -9,6 +9,7 @@
 * Other Details
 * Antd Design
 * Responsive
+* Email Api Integrated
 * Frontend is Deployed On Vercel
 * Backend is Deployed On Render
 
