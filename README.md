@@ -10,6 +10,7 @@
 * Antd Design
 * Responsive
 * Email Api Integrated
+* Export data to csv
 * Frontend is Deployed On Vercel
 * Backend is Deployed On Render
 ```
