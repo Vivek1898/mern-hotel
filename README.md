@@ -6,6 +6,9 @@
 * Node Js
 * MongoDb
 
+* Other Details
+* Antd Design
+* Responsive
 * Frontend is Deployed On Vercel
 * Backend is Deployed On Render
 
@@ -20,6 +23,7 @@
 ![image](https://user-images.githubusercontent.com/72497717/222382625-be230b48-5ee1-4c1a-9e36-730a229e63d4.png)
 
 ![image](https://user-images.githubusercontent.com/72497717/222383196-ffaf9edd-7428-4cfb-be1a-a354ed17cb01.png)
+![image](https://user-images.githubusercontent.com/72497717/222426680-f28a23b6-6fce-4ed2-b6d1-7496a4bdc238.png)
 
 
 ![image](https://user-images.githubusercontent.com/72497717/222382396-60fdddea-5fef-4c00-8f27-60f580ff7a19.png)
