@@ -6,7 +6,7 @@
 * Node Js
 * MongoDb
 
-* Other Details
+* Features
 * Antd Design
 * Responsive
 * Email Api Integrated
